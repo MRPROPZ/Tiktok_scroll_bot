@@ -1,0 +1,8 @@
+# Ignore everything in dist
+dist/*
+# But keep this exe
+!dist/tiktok_scroll_bot.exe
+
+build/
+*.spec
+__pycache__/
